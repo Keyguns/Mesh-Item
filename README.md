@@ -1,2 +1,2 @@
 # Mesh-Item
-The item baise Blue Mesh singnal convert item
+The item baised on Blue Mesh with singnal convert function item.
